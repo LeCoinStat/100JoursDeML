@@ -1,0 +1,21 @@
+Id_personne;Age;Nom;Prenom;Revenu;Type de domicile;Travail;Grade du pret;Montant du prêt;Taux_interet;Statut_du_pret;Taux_endettement;Défaut;Nombre de credit historique
+1;40;Akono;Nathan;59000;Locataire;CDI;D;35000;16.02;1;0.59;Y;3
+2;35;Akwa;Aicha;70000;Propriétaire;CDI;B;1000;11.14;0;0.1;N;2
+3;25;Arnaud;Matin;9600;Locataire;CDD;C;5500;12.87;1;0.57;N;3
+4;23;Awa;Marie;44000;Pret;CDI;C;35000;15.23;1;0.53;N;2
+5;24;Dubois;Lachaise;54400;Pret;CDI;C;35000;14.27;1;0.55;Y;4
+6;21;Durand;Bertin;9900;Locataire;CDD;A;2500;7.14;1;0.25;N;2
+7;44;Ekounou;Eli;77100;Propriétaire;CDI;B;35000;12.42;1;0.45;N;3
+8;24;Mendong;Zibi;33000;Locataire;CDI;B;35000;11.11;1;0.44;N;4
+9;24;Moussa;Hamado;24000;Locataire;CDI;A;35000;8.9;1;0.42;N;2
+10;50;Mvog-ada;Bertin;80000;Propriétaire;CDI;D;1600;14.74;1;0.16;N;3
+11;22;Mvogo;Melanie;25000;Locataire;CDD;B;35000;10.37;1;0.41;N;4
+12;21;Neba;Charlène;10000;Locataire;CDD;A;4500;8.63;1;0.45;N;2
+13;34;Ngo;Stephanie;95000;Pret;CDI;A;35000;7.9;1;0.37;N;2
+14;26;Ngono;Marie;108160;Pret;CDI;E;35000;18.39;1;0.32;N;4
+15;23;Omar;Mohamed;115000;Pret;Entreprenariat;A;35000;7.9;0;0.3;N;4
+16;32;Petit;Prince;500000;Propriétaire;Entreprenariat;B;30000;10.65;0;0.06;N;3
+17;23;Richard;Arnaud;120000;Locataire;CDI;A;35000;7.9;0;0.29;N;4
+18;31;Tchana;Albert;92111;Locataire;CDD;F;35000;20.25;1;0.32;N;4
+19;23;Tchuente;Isis;113000;Locataire;Entreprenariat;D;35000;18.25;1;0.31;N;4
+20;24;Yemba;Elodie;10800;Pret;CDD;B;1750;10.99;1;0.16;N;2
